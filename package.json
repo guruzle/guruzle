@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/guruzle/guruzle/issues"
   },
-  "homepage": "https://github.com/guruzle/guruzle#readme"
+  "homepage": "https://github.com/guruzle/guruzle#readme",
+  "dependencies": {
+    "koa": "^0.21.0"
+  }
 }
