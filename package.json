@@ -1,0 +1,19 @@
+{
+  "name": "guruzle",
+  "version": "1.0.0",
+  "description": "fantasy stat harvester",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guruzle/guruzle.git"
+  },
+  "author": "attleboro_gunner_81@yahoo.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guruzle/guruzle/issues"
+  },
+  "homepage": "https://github.com/guruzle/guruzle#readme"
+}
