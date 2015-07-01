@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/guruzle/guruzle#readme",
   "dependencies": {
-    "koa": "^0.21.0"
+    "koa": "^0.21.0",
+    "request": "^2.58.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
   }
 }
